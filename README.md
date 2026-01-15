@@ -55,6 +55,7 @@ This project is collaboratively built and maintained by a passionate development
 - Styling and UI consistency across the platform
 - Enhancing user experience and performance
 
+---
 
 ## 🏗 Architecture
 
