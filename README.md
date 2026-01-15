@@ -574,7 +574,7 @@ Repeat above for each service.
 
 We would like to thank 
 
-**Google Cloud** and **TechSprint Hackathon** for providing the platform and opportunity for this project.
+**Google Developer Group On Campus PIET** and **TechSprint Hackathon** for providing the platform and opportunity for this project.
 
 - *Vercel*
  for free frontend hosting
