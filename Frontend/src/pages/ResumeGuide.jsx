@@ -29,7 +29,7 @@ export default function ResumeGuide() {
 
     try {
       const response = await fetch(
-        "https://resume-screener-dummy-19tg.onrender.com/analyze",
+        "https://resume-screener-dummy.onrender.com/analyze",
         {
           method: "POST",
           body: formData,
