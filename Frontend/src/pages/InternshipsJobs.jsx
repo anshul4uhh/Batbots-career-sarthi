@@ -12,7 +12,7 @@ import {
 } from "lucide-react";
 
 // 🌐 API Base URL setup
-const API_BASE = "https://joblogy-jf6o.onrender.com";
+const API_BASE = "https://joblogy.onrender.com";
 
 const InternshipsJobs = () => {
   const [locations, setLocations] = useState([]);
