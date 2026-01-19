@@ -16,7 +16,7 @@ const Hack = () => {
     setLoading(true);
     setShowResults(true);
     try {
-      let url = "https://contest-hackathon-tracker-6j7r.onrender.com/api/all";
+      let url = "https://contest-hackathon-tracker.onrender.com/api/all";
       const params = [];
       if (type) params.push(`type=${type}`);
       if (status) params.push(`status=${status}`);
