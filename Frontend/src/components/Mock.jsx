@@ -5,7 +5,7 @@ import { Upload, Mic, Briefcase, BarChart, Loader2, CheckCircle, XCircle, User, 
 // Please replace this URL with the actual endpoint of your running backend server.
 // If you are running locally, this URL should be the same as your backend.
 // Note: You may need to configure CORS on your backend to allow requests from this page.
-const BACKEND = "https://ai-mock-interviewer-4wqt.onrender.com";
+const BACKEND = "https://ai-mock-interviewer-zp1f.onrender.com";
 
 const input = "w-full p-4 rounded-xl bg-gray-800 border border-gray-700 focus:border-purple-500 outline-none placeholder-gray-400 transition-all duration-300";
 const headingStyle = "text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 mb-8";
