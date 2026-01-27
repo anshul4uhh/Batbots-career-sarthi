@@ -17,7 +17,7 @@ function saveSessions(sessions) {
 }
 
 export default function ChatApp({
-  backendUrl = import.meta.env.VITE_BACKEND_URL || "https://career-advisor-chatbot-5ifz.onrender.com",
+  backendUrl = import.meta.env.VITE_BACKEND_URL || "https://career-advisor-chatbot-bwk4.onrender.com",
   open = false,
 }) {
   const [sessions, setSessions] = useState([]);
